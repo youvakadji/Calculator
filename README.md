@@ -1,1 +1,1 @@
-# Calculator
+# I build a calculator using React and Typescript
